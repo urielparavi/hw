@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import Form1 from './hw_comps/form1';
 
 function App() {
   return (
     <div className="App">
-      <h1>app Work</h1>
+      <Form1 />
     </div>
   );
 }
